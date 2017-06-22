@@ -1,0 +1,21 @@
+{
+  "name": "janela",
+  "version": "1.0.0",
+  "description": "app janela tecnica TI TOTVS",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "marllon.fernandes@totvs.com.br",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "express-flash": "0.0.2",
+    "express-load": "^1.1.16",
+    "express-session": "^1.15.3",
+    "fs": "0.0.1-security",
+    "mongoose": "^4.10.7",
+    "static-favicon": "^2.0.0-alpha"
+  }
+}
